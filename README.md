@@ -1,2 +1,4 @@
 # covidanalysis
-A small python program to get list of Indian state having death more than given percentage due to COVID-19.
+A small python program to get the list of Indian states having death more than a given percentage due to COVID-19.
+
+Data Source : https://www.mohfw.gov.in/
